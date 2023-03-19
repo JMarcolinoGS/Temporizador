@@ -1,4 +1,4 @@
-import ti
+import tim
 
 t = input("Digite o tempo (em segundos):")
 
