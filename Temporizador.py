@@ -20,4 +20,4 @@ while t:
 
     
 print("Tempo Acabou!")
-a
+
